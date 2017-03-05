@@ -1,1 +1,1 @@
-$(time Etc/GMT+2 "MMMM Do YYYY, h:mm:ss a z [GMT]Z") -- Lives in **Finland**
+$(time Etc/GMT+2) -- Lives in **Finland**
